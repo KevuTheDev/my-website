@@ -1,7 +1,10 @@
-# My Personal Website and Blog
+## My Personal Website and Blog
 
-https://kevinweiyenhe.com
+Visit my website at https://kevinweiyenhe.com.
 
 
 
-Thanks to [timlrx](https://github.com/timlrx) for the [template](https://github.com/timlrx/tailwind-nextjs-starter-blog).
+---
+## Special Thanks
+
+Thanks to [timlrx](https://github.com/timlrx) for the template. Based off of [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog), blogging template.
