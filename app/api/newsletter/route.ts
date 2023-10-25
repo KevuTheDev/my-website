@@ -1,4 +1,4 @@
-import { NewsletterAPI } from 'pliny/newsletter'
+/*import { NewsletterAPI } from 'pliny/newsletter'
 import siteMetadata from '@/data/siteMetadata'
 
 const handler = NewsletterAPI({
@@ -7,3 +7,6 @@ const handler = NewsletterAPI({
 })
 
 export { handler as GET, handler as POST }
+
+
+*/
