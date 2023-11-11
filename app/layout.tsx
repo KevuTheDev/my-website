@@ -1,6 +1,5 @@
 import 'css/tailwind.css'
 import 'pliny/search/algolia.css'
-import { Analytics } from '@vercel/analytics/react'
 
 import { Space_Grotesk } from 'next/font/google'
 import { Analytics, AnalyticsConfig } from 'pliny/analytics'
@@ -82,8 +81,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <SearchProvider searchConfig={siteMetadata.search as SearchConfig}>
                 <Header />
                 <main className="mb-auto">{children}</main>
-
-                <Analytics />
               </SearchProvider>
               <Footer />
             </div>
